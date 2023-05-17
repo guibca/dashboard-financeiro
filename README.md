@@ -2,7 +2,7 @@
 Dashboard com insights referentes ao contas a pagar e contas a receber de uma empresa fictícia do ramo imobiliário.
 Esta dashboard foi desenvolvida com o intuito de auxiliar a gestão de valores a receber e a pagar de uma empresa.
 
-Os dados foram gerados de forma aleatória, utilizando Python, conforme script entitulado script-cap e script-car.
+Os dados foram gerados de forma aleatória, utilizando Python, conforme scripts entitulados base_cap e base_car.
 Assim, foi possível construir um banco de dados com 5 tabelas distintas, armazenadas no Google BigQuery:
 
 (a) Informações referentes ao contas a receber:
