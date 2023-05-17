@@ -1,5 +1,5 @@
 # dashboard-financeiro
-Dashboard com insights referentes ao contas a pagar e contas a receber de uma empresa fictícia.
+Dashboard com insights referentes ao contas a pagar e contas a receber de uma empresa fictícia do ramo imobiliário.
 Esta dashboard foi desenvolvida com o intuito de auxiliar a gestão de valores a receber e a pagar de uma empresa.
 
 Os dados foram gerados de forma aleatória, utilizando Python, conforme script entitulado script-cap e script-car.
@@ -53,7 +53,7 @@ Com as tabelas devidamente geradas, fez-se a consulta SQL disponível no arquivo
 Por fim, os resultados da consulta SQL realizada são utilizados para alimentar uma dashboard interativa construída no Tableau, conforme resultado abaixo:
 
 a- Dashboard Contas a Pagar
-<img width="1226" alt="image" src="https://github.com/guibca/dashboard-financeiro/assets/124844502/00fdebc6-f6a7-4063-9800-140c8ab9f021">
+<img width="1229" alt="image" src="https://github.com/guibca/dashboard-financeiro/assets/124844502/a63ad65a-b9d6-4320-ab9b-32cecb1c46b5">
 
 b - Dashboard Contas a Receber
 <img width="1231" alt="image" src="https://github.com/guibca/dashboard-financeiro/assets/124844502/834c4af3-67ab-4b7f-a8cf-646211ed79e4">
